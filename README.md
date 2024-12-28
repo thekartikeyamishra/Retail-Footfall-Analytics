@@ -109,6 +109,10 @@ python main.py
 
 ---
 
+- * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+
+ ---
+
 ### **Contribute and Feedback**
 
 Feel free to contribute to this project by submitting pull requests or reporting issues. Your feedback is invaluable in enhancing this tool. If you find this project helpful, don’t forget to ⭐ **star the repository** on GitHub!
